@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🐝 Georgia Institute of Technology 2024 - M.S. Analytics
 - 🍊 Syracuse University 2019 - B.S. Biotechnology
 
